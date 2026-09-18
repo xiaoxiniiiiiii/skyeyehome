@@ -5,7 +5,7 @@ import './styles.css'
 
 const site={domain:'skyeyehome.com',adminPath:'/#/admin'}
 const adminCredentials={username:'admin@skyeyehome.com',password:'SkyeyeHome2026!'}
-const company={name:'Hong Kong AnxinTrading Co Limited',email:'ajnpay@outlook.com',phone:'+852 62315668',address:'HONGKONG ANXUNTRATION CO., LIMITED'}
+const company={name:'HongKong AnxunTrading Co Limited',email:'ajnpay@outlook.com',phone:'+852 62315668',address:'HONGKONG ANXUNTRATION CO., LIMITED'}
 const categories=[
  {name:'Kitchen Systems',note:'Order in, cook calmly',items:['Stock Pot','Saucepan','Food Storage Box','Pantry Jar','Rice Storage Bin','Spice Bottle Set','Countertop Shelf','Dish Rack','Utensil Holder','Lunch Container']},
  {name:'Storage Studio',note:'A place for every useful thing',items:['Lidded Storage Box','Under-bed Case','Stackable Closet Bin','Foldable Laundry Basket','Toy Organizer','Shoe Storage Bench','Utility Cart','Pegboard Organizer','Garment Rack','Drawer Tower']},
