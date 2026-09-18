@@ -1,6 +1,6 @@
 # Skyeyehome
 
-React/Vite home-living storefront for `skyeyehome.com`.
+React/Vite clothing storefront for `skyeyehome.com`.
 
 - Storefront: `https://skyeyehome.com/`
 - Admin demo route: `https://skyeyehome.com/#/admin`
